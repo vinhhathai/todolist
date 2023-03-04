@@ -1,1 +1,1 @@
-This is a project what I built to improve my reactjs skills
+This is a project which I built to improve my reactjs skills
